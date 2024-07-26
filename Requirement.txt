@@ -1,0 +1,12 @@
+geemap
+folium
+pandas
+streamlit
+earthengine-api
+numpy
+matplotlib
+scipy
+shapely
+geopandas
+requests
+scikit-learn
