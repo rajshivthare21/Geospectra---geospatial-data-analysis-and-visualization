@@ -1,6 +1,3 @@
-![Screenshot (78)](https://github.com/user-attachments/assets/8b6c8224-d087-4f8e-96e2-0b1e1aeff96e)Here's the README file with added emojis to make it more attractive:
-
----
 
 # 🌍 Geospectra: Geospatial Data Analysis and Visualization
 
