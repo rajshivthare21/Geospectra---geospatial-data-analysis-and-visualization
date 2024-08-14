@@ -1,4 +1,4 @@
-Here's the README file with added emojis to make it more attractive:
+![Screenshot (78)](https://github.com/user-attachments/assets/8b6c8224-d087-4f8e-96e2-0b1e1aeff96e)Here's the README file with added emojis to make it more attractive:
 
 ---
 
@@ -18,6 +18,15 @@ Geospectra is a research study focused on the integration and analysis of divers
 - 🏡 **Housing Datasets Analysis**: Exploring housing data to uncover trends and insights.
 - 📊 **Elegant Visualizations**: Using `geemap`, `folium`, and `pandas` to create insightful and interactive visualizations.
 - 🌐 **Earth Engine Integration**: Accessing and evaluating extensive geographic datasets with ease.
+
+## Snapshots of Map Visualization
+
+![1](https://github.com/user-attachments/assets/d9e55682-7d49-4163-a335-4a4e22dc2a75)
+
+![3](https://github.com/user-attachments/assets/3800bf07-0f10-4d15-a45c-9494103ac4b5)
+
+![6](https://github.com/user-attachments/assets/29f1b233-828d-4634-9b15-fe05821845bb)
+
 
 ## Tools and Libraries
 
