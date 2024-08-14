@@ -21,7 +21,7 @@ Geospectra is a research study focused on the integration and analysis of divers
 
 ## Snapshots of Map Visualization
 
-![1](https://github.com/user-attachments/assets/d9e55682-7d49-4163-a335-4a4e22dc2a75)
+![1](https://github.com/user-attachments/assets/089f26a3-11c4-4143-b16c-873cdf3703a2)
 
 ![3](https://github.com/user-attachments/assets/3800bf07-0f10-4d15-a45c-9494103ac4b5)
 
